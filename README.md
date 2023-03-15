@@ -5,7 +5,7 @@
 # Experiencia
 
 - Aluno.Unimar
-- Progrmador PHP
+- Programador PHP
 
 ---
 
