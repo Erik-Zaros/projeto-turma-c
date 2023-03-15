@@ -5,7 +5,8 @@
 # Experiencia
 
 - Aluno.Unimar
-- Programador PHP
+- Programador PHP, Java, Ruby e CSS
+- Linux--Debian
 
 ---
 
