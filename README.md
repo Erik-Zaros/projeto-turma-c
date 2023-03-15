@@ -1,5 +1,7 @@
 # Erik
 
+
+
 ---
 
 # Experiencia
@@ -8,5 +10,17 @@
 - Programador PHP, Java, Ruby e CSS
 - Linux--Debian
 
+
 ---
+
+# Dados
+
+  E-mail: xxxxxxxxxxxxxxxxxxxxxxx
+ 
+  CPF: xxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 
+  RG:xxxxxxxxxxxxxxxxxxxxxxxxxxx
+  
+---
+
 
