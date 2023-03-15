@@ -1,4 +1,11 @@
-#Erik
+# Erik
+
+---
+
+# Experiencia
+
+- Aluno.Unimar
+- Progrmador PHP
 
 ---
 
